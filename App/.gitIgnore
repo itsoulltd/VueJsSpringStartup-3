@@ -36,3 +36,4 @@
 ###Project Specific
 **/node_modules/
 **/node/
+**/dist/
