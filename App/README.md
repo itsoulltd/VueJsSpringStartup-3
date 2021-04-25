@@ -1,6 +1,25 @@
-https://www.danvega.dev/blog/2021/01/22/full-stack-java-vue/
 
-With vue.js v3
+Following this awesome tutorial:
+         
+        https://www.danvega.dev/blog/2021/01/22/full-stack-java-vue/
 
-Do First, Lifecycle > clean
-Then,     Lifecycle > install
+Build With vue.js v3 (Also work with Vue.js v2)
+
+To Enable Vue Dev Env:
+        
+        First, Maven > Lifecycle > clean
+        Then,  Maven > Lifecycle > install
+
+
+============== Check node and npm ============
+        
+        ~>$ node -v
+        v14.16.0
+        ~>$ npm -v
+        7.7.6
+        ~>$ vue --version
+        @vue/cli 4.5.12
+        ~>$
+        ~>$
+        ~>$ cd frontend
+        ~>$ npm run serve
