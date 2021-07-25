@@ -9,6 +9,12 @@ To Enable Vue Dev Env:
         
         First, Maven > Lifecycle > clean
         Then,  Maven > Lifecycle > install
+        
+        ----------------if npm plugin failed----------
+        Delete the node_modules directory
+        Delete the package-lock.json file
+        Then clean and install again,
+        ----------------------------------------------
 
 
 ============== Check node and npm ============
